@@ -1,0 +1,80 @@
+Human
+Elf
+Dwarf
+Orc
+Halfling
+Tiefling
+Dragonborn
+Gnome
+Goblin
+Half-Orc
+Half-Elf
+Dark Elf (Drow)
+High Elf
+Wood Elf
+Sea Elf
+Fairy
+Centaur
+Satyr
+Minotaur
+Lizardfolk
+Aarakocra (Birdfolk)
+Genasi (Elemental-blooded)
+Triton
+Tabaxi (Catfolk)
+Aasimar (Celestial-blooded)
+Firbolg
+Goliath
+Kobold
+Merfolk
+Harpy
+Naga
+Yuan-ti (Snakefolk)
+Bugbear
+Kenku (Crowfolk)
+Kitsune (Foxfolk)
+Vampire
+Werewolf
+Dryad
+Sylph (Air Spirit)
+Undine (Water Spirit)
+Ifrit (Fire Spirit)
+Oread (Earth Spirit)
+Changeling
+Dhampir (Half-Vampire)
+Loxodon (Elephantfolk)
+Leonin (Lionfolk)
+Tortle (Turtlefolk)
+Shifter (Lycanthrope-descendant)
+Githyanki
+Githzerai
+Myconid (Mushroomfolk)
+Sahuagin (Fishfolk)
+Aetherborn
+Simic Hybrid
+Vedalken
+Warforged
+Revenant
+Shade
+Sprite
+Cyclops
+Fomorian
+Troll
+Ogre
+Hobgoblin
+Duergar (Deep Dwarf)
+Svirfneblin (Deep Gnome)
+Kuo-toa
+Grippli (Frogfolk)
+Troglodyte
+Flumph
+Ettercap
+Formian
+Thri-kreen (Mantisfolk)
+Nephilim
+Celestial
+Demon
+Angel
+Devil
+Salamander
+Phantom
